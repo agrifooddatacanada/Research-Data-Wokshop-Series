@@ -15,12 +15,15 @@ Click [here](https://www.eventbrite.ca/e/agri-food-research-data-workshop-series
 ### 3. Schedule
 **Workshop 1: The Data Life Cycle and your Role as a Researcher (April 12)**
 
-Click [here](2023-Summer/1%20-%20The%20Data%20Life%20Cycle%20and%20your%20role%20as%20a%20researcher/AgriFoodDataWorkshop_20230412.pdf) for workshop slide notes
+Click [here](2023-Summer/1%20-%20The%20Data%20Life%20Cycle%20and%20your%20role%20as%20a%20researcher/AgriFoodDataWorkshop_20230412.pdf) for the slide notes
 
 1. The beginnings of data management
 2. Review the data life cycle
 
 **Workshop 2: Data Management Plans (April 19)**
+
+Click [here](2023-Summer/2%20-%20Data%20Management%20Plans/AgriFoodDataWorkshop_20230419.pdf) for the slide notes
+
 1. What are DMPs?
 2. How do you use DMPs?
 
