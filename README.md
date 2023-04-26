@@ -1,5 +1,5 @@
-![Agri-food Research Data Wokshop Series](2023-Summer/src/2023-Summer-Banner.jpeg)
-# Agri-food Research Data Wokshop Series
+![Agri-food Research Data Workshop Series](2023-Summer/src/2023-Summer-Banner.jpeg)
+# Agri-food Research Data Workshop Series
 Hosted by Agri-Food Data Canada at the University of Guelph
 
 ## Summer 2023
