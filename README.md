@@ -28,6 +28,9 @@ Click [here](2023-Summer/2%20-%20Data%20Management%20Plans/AgriFoodDataWorkshop_
 2. How do you use DMPs?
 
 **Workshop 3: New Ontario Dairy Research Centre Data Portal (April 26)**
+
+Click [here](2023-Summer/3%20-%20New%20ODRC%20Data%20Portal/AgriFoodDataWorkshop_20230426.pdf) for the slide notes
+
 1. Learn about the Ontario Dairy Research Centre Portal and what is available to access
 
 **Workshop 4: Documenting your Data (May 3)**
