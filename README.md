@@ -34,6 +34,9 @@ Click [here](2023-Summer/3%20-%20New%20ODRC%20Data%20Portal/AgriFoodDataWorkshop
 1. Learn about the Ontario Dairy Research Centre Portal and what is available to access
 
 **Workshop 4: Documenting your Data (May 3)**
+
+Click [here](2023-Summer/4%20-%20Documenting%20Your%20Data/2012-05-03_ADC_CarlyHuitema_Documenting_your_data.pdf) for the slide notes
+
 1. Learn why it is important to document your data and different ways to do it
 
 **Workshop 5: Introduction to R (May 10)**
