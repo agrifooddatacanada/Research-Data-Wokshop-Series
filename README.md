@@ -35,11 +35,14 @@ Click [here](2023-Summer/3%20-%20New%20ODRC%20Data%20Portal/AgriFoodDataWorkshop
 
 **Workshop 4: Documenting your Data (May 3)**
 
-Click [here](2023-Summer/4%20-%20Documenting%20Your%20Data/2012-05-03_ADC_CarlyHuitema_Documenting_your_data.pdf) for the slide notes
+Click [here](2023-Summer/4%20-%20Documenting%20Your%20Data/AgriFoodDataWorkshop_20230503.pdf) for the slide notes
 
 1. Learn why it is important to document your data and different ways to do it
 
 **Workshop 5: Introduction to R (May 10)**
+
+Click [here](2023-Summer/5%20-%20Introduction%20to%20R/AgriFoodDataWorkshop_20230510.pdf) for the slide notes and [here](2023-Summer/5%20-%20Introduction%20to%20R) for the workshop scripts and sample data
+
 1. Learn about R and how to get started
 
 **Workshop 6: Documenting your Data and Processes with R Markdown (May 24)**
