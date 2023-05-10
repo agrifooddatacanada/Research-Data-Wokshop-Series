@@ -41,7 +41,7 @@ Click [here](2023-Summer/4%20-%20Documenting%20Your%20Data/AgriFoodDataWorkshop_
 
 **Workshop 5: Introduction to R (May 10)**
 
-Click [here](2023-Summer/5%20-%20Introduction%20to%20R/AgriFoodDataWorkshop_20230510.pdf) for the slide notes and [here](https://github.com/agrifooddatacanada/Research-Data-Workshop-Series/tree/77f52710b7666c7887ab9bb0a1e03f231e048ea4/2023-Summer/5%20-%20Introduction%20to%20R) for the workshop scripts and sample data
+Click [here](2023-Summer/5%20-%20Introduction%20to%20R/AgriFoodDataWorkshop_20230510.pdf) for the slide notes and [here](2023-Summer/5 - Introduction to R) for the workshop scripts and sample data
 
 1. Learn about R and how to get started
 
