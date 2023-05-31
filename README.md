@@ -53,6 +53,9 @@ Click [here](2023-Summer/6%20-%20Documenting%20with%20R%20Markdown/AgriFoodDataW
 * Participants MUST have R experience or have attended the May 10 Introduction to R session
 
 **Workshop 7: R Shiny (May 31)**
+
+Click [here](2023-Summer/7%20-%20Introduction%20to%20Shiny/AgriFoodDataWorkshop_20230531.pdf) for the slide notes and [here](https://github.com/agrifooddatacanada/Research-Data-Workshop-Series/tree/main/2023-Summer/7%20-%20Introduction%20to%20Shiny) for the workshop sample script and data
+
 1. Learn about R Shiny and how to get started
 * Participants MUST have R experience or have attended the May 10 Introduction to R session
 
