@@ -62,7 +62,7 @@ Click [here](2023-Summer/7%20-%20Introduction%20to%20Shiny/AgriFoodDataWorkshop_
 **Workshop 8: Introduction to GitHub (June 14)**
 1. Learn about GitHub and how to get started
 
-Slide notes coming soon!
+Click [here](2023-Summer/8%20-%20Introduction%20to%20GitHub/AgriFoodDataWorkshop_20230614.pdf) for the slide notes
 
 **Workshop 9: Introduction to Linux (June 21)**
 1. Learn about Linux and how to get started
