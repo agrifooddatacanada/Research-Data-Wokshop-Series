@@ -66,3 +66,5 @@ Click [here](2023-Summer/8%20-%20Introduction%20to%20GitHub/AgriFoodDataWorkshop
 
 **Workshop 9: Introduction to Linux (June 21)**
 1. Learn about Linux and how to get started
+
+Click [here](2023-Summer/9%20-%20Introduction%20to%20Linux/AgriFoodDataWorkshop_20230621.pdf) for the slide notes
