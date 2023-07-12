@@ -71,7 +71,7 @@ Click [here](2023-Summer/9%20-%20Introduction%20to%20Linux/AgriFoodDataWorkshop_
 
 1. Learn about Linux and how to get started
 
-**Workshop 10: AllInOne Pre-Processing: A Comprehensive R-Shiny Package for Preprocessing Phenotypic Datasets**
+**Workshop 10: AllInOne Pre-Processing: A Comprehensive R-Shiny Package for Preprocessing Phenotypic Datasets (June 28)**
 
 Check out the AllInOne [repository](https://github.com/MohsenYN/AllInOne) and [wiki](https://github.com/MohsenYN/AllInOne/wiki) page on GitHub
 
