@@ -60,11 +60,22 @@ Click [here](2023-Summer/7%20-%20Introduction%20to%20Shiny/AgriFoodDataWorkshop_
 * Participants MUST have R experience or have attended the May 10 Introduction to R session
 
 **Workshop 8: Introduction to GitHub (June 14)**
-1. Learn about GitHub and how to get started
 
 Click [here](2023-Summer/8%20-%20Introduction%20to%20GitHub/AgriFoodDataWorkshop_20230614.pdf) for the slide notes
 
+1. Learn about GitHub and how to get started
+
 **Workshop 9: Introduction to Linux (June 21)**
-1. Learn about Linux and how to get started
 
 Click [here](2023-Summer/9%20-%20Introduction%20to%20Linux/AgriFoodDataWorkshop_20230621.pdf) for the slide notes
+
+1. Learn about Linux and how to get started
+
+**Workshop 10: AllInOne Pre-Processing: A Comprehensive R-Shiny Package for Preprocessing Phenotypic Datasets  **
+
+Check out the AllInOne [repository](https://github.com/MohsenYN/AllInOne) and [wiki](https://github.com/MohsenYN/AllInOne/wiki) page on GitHub
+
+1. Learn more about the AllInOne Pre-processing R-Shiny user interface package 
+
+* AllInOne streamlines the pre-processing of phenotypic data, enabling R users to swiftly and accurately ready their data for further analysis
+
